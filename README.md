@@ -63,6 +63,7 @@ and outbox processing, and a trust score engine for local businesses with GPS-ga
 │  └──────────────────────────────┘   └──────────────────┘  │
 └────────────────────────────────────────────────────────────┘
 ```
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/b5a7244b-ffc8-475b-ac10-7cc63710e6db" />
 
 ---
 
