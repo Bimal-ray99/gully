@@ -1,5 +1,5 @@
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/5c69a6d3-f91a-48f7-9d9c-914f53ff7c09" />
-# Gully - Proximity-First Social Backend
+Gully - Proximity-First Social Backend
 
 > Go monorepo · Gin · MongoDB Atlas · Redis · Asynq · gorilla/websocket · Firebase FCM · Resend
 
