@@ -1,4 +1,4 @@
-# Gully — Proximity-First Social Backend
+# Gully - Proximity-First Social Backend
 
 > Go monorepo · Gin · MongoDB Atlas · Redis · Asynq · gorilla/websocket · Firebase FCM · Resend
 
@@ -204,17 +204,6 @@ docker compose -f docker/docker-compose.yml up --build
 go run ./cmd/api      # terminal 1
 go run ./cmd/workers  # terminal 2
 ```
-
----
-
-## Documentation
-
-| Doc | Contents |
-|---|---|
-| [docs/api.md](docs/api.md) | All 46 endpoints with request/response shapes, query params, status codes |
-| [docs/room-api.postman_collection.json](docs/room-api.postman_collection.json) | Postman collection — import and set `base` variable to run immediately |
-
----
 
 ## Environment Variables
 
